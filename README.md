@@ -1,2 +1,1 @@
-# GIT
-Hola Mundo
+# Hola Mundo
